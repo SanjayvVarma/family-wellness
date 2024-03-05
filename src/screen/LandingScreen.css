@@ -1,0 +1,36 @@
+.div-img img {
+   padding: 0 2rem;
+   height: 32rem;
+   width: 96rem;
+}
+
+.about-us {
+   background-color: #a8063c;
+   margin: 1.5rem;
+   color: white;
+   text-align: center;
+}
+
+.about-us h1 {
+   padding-top: 5rem;
+   font-size: 3rem;
+}
+
+.about-us p {
+   padding: 1rem 22rem;
+}
+
+.about-us .btn {
+   padding-bottom: 5rem;
+   justify-content: center;
+   display: flex;
+   gap: 1.7rem;
+}
+
+.massage p{
+   margin: 2rem;
+}
+
+.first-mgs{
+   color: #ba0541;
+}

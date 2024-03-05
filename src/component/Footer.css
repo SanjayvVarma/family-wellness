@@ -1,0 +1,24 @@
+.footer-div{
+    text-align: center;
+    margin: 4rem;
+}
+
+.footer-div h1{
+    color: #b70f47;
+    padding: 2rem;
+}
+
+.copyright{
+    background-color: gray;
+    text-align: center;
+    margin: 1rem;
+}
+
+.copyright h4{
+    padding: 1rem;
+}
+
+.powered{
+    text-align: center;
+    padding: 2rem;
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-div h1 {
+    color: #a32851;
+    font-weight: 470;
+    padding-left: 2rem;
+}
+
+.header-div p{
+    padding-left: 2.2rem;
+    font-size: 12px;
+}
+
+.header ul {
+    display: flex;
+    list-style: none;
+    background-color: rgb(137, 136, 136);
+    margin: 2rem;
+}
+
+.header-home{
+    background-color: #a32851;
+}
+
+.header ul li {
+    text-align: center;
+    padding:1rem 7rem;
+    color: white;
+}
